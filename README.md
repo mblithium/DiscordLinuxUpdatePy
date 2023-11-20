@@ -6,6 +6,6 @@ Used by myself, it is necessary to _**run as root**_ due to the "opt" directory 
 
 ```
 # Download and install updates
-sudo python3 ./DiscordLinuxUpdate.py
+./DiscordLinuxUpdate.sh
 ```
 
